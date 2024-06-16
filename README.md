@@ -1,4 +1,4 @@
-Overview
+
 This repository contains the work for developing a machine learning-based screening tool for detecting potential MPOX (formerly monkeypox) virus infections. The objective is to create an inexpensive and quick method for predicting MPOX infections without the need for extensive PCR tests, which can be costly and time-consuming. This project was completed as part of the Data Mining & Machine Learning module at the University of Westminster.
 Domain Context
 MPOX, caused by the monkeypox virus (MPXV), emerged as a significant global health concern, leading to widespread outbreaks. The traditional diagnostic method, PCR testing, although accurate, is expensive and not conducive to rapid mass screening, particularly during a pandemic. This project aims to mitigate this issue by leveraging machine learning models to predict MPOX infections based on patient symptoms and other relevant attributes.
